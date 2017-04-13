@@ -30,7 +30,7 @@ profile.cov
 gin-bin
 tags
 .vscode/
-vendor/
+# vendor/
 glide.lock
 
 # we don't vendor godep _workspace
